@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://sdn1pejawaran.sch.id"
+baseURL = "https://sdn1pejawaran.sch.id"
 title = "SD NEGERI 1 PEJAWARAN"
 theme = "educenter-hugo"
 # post pagination

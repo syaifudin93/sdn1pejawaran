@@ -1,5 +1,5 @@
 ---
-title: "Social media and behavior economics conference"
+title: "tttSocial media and behavior economics conference"
 # Schedule page publish date
 publishDate: "2019-01-01T00:00:00Z"
 # event date
