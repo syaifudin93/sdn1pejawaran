@@ -4,5 +4,5 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "SD NEGERI 1 PEJAWARAN adalah salah satu satuan pendidikan dengan jenjang SD di Pejawaran, Kec. Pejawaran, Kab. Banjarnegara, Jawa Tengah. Dalam menjalankan kegiatannya, SD NEGERI 1 PEJAWARAN berada di bawah naungan Kementerian Pendidikan dan Kebudayaan."
 ---

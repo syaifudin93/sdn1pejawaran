@@ -4,37 +4,37 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "MANTAP DALAM ILMU, RELIGIUS, DAN INOVATIF "
-      content : "Penin gkatan Hasil Ujian Nasional,Terwujudnya  Siswa Kreatif serta Unggul di bidang akademik kesenian dan Olahraga, Terwujudnya lingkungan yang disiplin, sehat dan agamis, Terwujudnya siswa yang beriman, Bertaqwa dan berakhlaqul Karimah, Terwujudnya Lulusan yang Cerdas, berprestasi dan Bersaing di era globalisasi"
+    - title : "SELAMAT DATANG DI SD NEGERI 1 PEJAWARAN"
+      content : ""
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
         label : "DAFTAR SEKARANG"
-        link : "contact"
+        link : "https://docs.google.com/forms/d/e/1FAIpQLSdMkK0OM5Jjk_RmM8T8RxxKO7zNxQVM2V7ITCiF2x_BEa0A1Q/viewform"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "VISI SEKOLAH: MANTAP DALAM ILMU, RELIGIUS, DAN INOVATIF"
+      content : "Peningkatan Hasil Ujian Nasional,Terwujudnya  Siswa Kreatif serta Unggul di bidang akademik kesenian dan Olahraga, Terwujudnya lingkungan yang disiplin, sehat dan agamis, Terwujudnya siswa yang beriman, Bertaqwa dan berakhlaqul Karimah, Terwujudnya Lulusan yang Cerdas, berprestasi dan Bersaing di era globalisasi"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
-        link : "contact"
+        label : "DAFTAR SEKARANG"
+        link : "https://docs.google.com/forms/d/e/1FAIpQLSdMkK0OM5Jjk_RmM8T8RxxKO7zNxQVM2V7ITCiF2x_BEa0A1Q/viewform"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "LELAH KETIKA BELAJAR, TIDAK LEBIH MELELAHKAN SAAT TERHINA KARENA KEBODOHAN"
+      content : "-IMAM SYAFI'I-"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
-        link : "contact"
+        label : "DAFTAR SEKARANG"
+        link : "https://docs.google.com/forms/d/e/1FAIpQLSdMkK0OM5Jjk_RmM8T8RxxKO7zNxQVM2V7ITCiF2x_BEa0A1Q/viewform"
 
 
 ############################### Banner feature ###############################
@@ -118,20 +118,20 @@ funfacts:
   enable : true
   funfact_item:
     # funfact item loop
-    - name : "TEACHERS"
-      count : "60"
+    - name : "GURU"
+      count : "12"
 
     # funfact item loop
-    - name : "COURSES"
-      count : "50"
+    - name : "MAPEL"
+      count : "10"
 
     # funfact item loop
-    - name : "STUDENTS"
-      count : "1000"
+    - name : "SISWA"
+      count : "140"
 
     # funfact item loop
-    - name : "SATISFIED CLIENT"
-      count : "1400"
+    - name : "ROMBONGAN BELAJAR"
+      count : "6"
 
 # funfact is for about page
 
