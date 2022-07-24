@@ -1,5 +1,5 @@
 ---
-title: "Jacke Mastio"
+title: "Sugiarti"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,7 +8,7 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 # teacher portrait
 image: "images/teachers/teacher-2.jpg"
 # course
-course: "Computer Science"
+course: "Vlogging"
 # biography
 bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 # interest
