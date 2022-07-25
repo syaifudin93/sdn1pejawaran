@@ -11,11 +11,11 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "DAFTAR SEKARANG"
+        label : "Daftar Sekarang"
         link : "https://docs.google.com/forms/d/e/1FAIpQLSdMkK0OM5Jjk_RmM8T8RxxKO7zNxQVM2V7ITCiF2x_BEa0A1Q/viewform"
 
     # slider item loop
-    - title : "VISI SEKOLAH: MANTAP DALAM ILMU, RELIGIUS, DAN INOVATIF"
+    - title : "Visi Sekolah: Mantap Dalam Ilmu, Religius, Dan Inovatif"
       content : "Peningkatan Hasil Ujian Nasional,Terwujudnya  Siswa Kreatif serta Unggul di bidang akademik kesenian dan Olahraga, Terwujudnya lingkungan yang disiplin, sehat dan agamis, Terwujudnya siswa yang beriman, Bertaqwa dan berakhlaqul Karimah, Terwujudnya Lulusan yang Cerdas, berprestasi dan Bersaing di era globalisasi"
       animation_in : "left"
       animation_out : "right"
@@ -26,7 +26,7 @@ slider:
         link : "https://docs.google.com/forms/d/e/1FAIpQLSdMkK0OM5Jjk_RmM8T8RxxKO7zNxQVM2V7ITCiF2x_BEa0A1Q/viewform"
 
     # slider item loop
-    - title : "LELAH KETIKA BELAJAR, TIDAK LEBIH MELELAHKAN SAAT TERHINA KARENA KEBODOHAN"
+    - title : "Lelah Ketika Belajar, Tidak Lebih Melelahkan Saat Terhina Karena Kebodohan"
       content : "-IMAM SYAFI'I-"
       animation_in : "left"
       animation_out : "right"
@@ -43,24 +43,24 @@ banner_feature:
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
-    - name : "Scholorship News"
+    - name : "Sekilas Info"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Berdasarkan Surat edaran nomor 1919/B1.B5/GT.01.03/20 yang berisi mengenai panduan pengimplementasian kurikulum merdeka, pada tahun 2022/2023 SDN 1 Pejawaran sudah menerapkan kurikulum merdeka pada kelas 1 dan 4"
 
     # feature item loop
-    - name : "Our Notice Board"
+    - name : "Kriteria Kelulusan"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "menyelesaikan seluruh program pembelajaran, memiliki deskripsi sikap minimal baik sesuai dengan kriteria yang telah ditetapkan, lulus ujian sekolah, dan mencapai nilai rata-rata pencapaian minimal sekolah paling rendah 70"
 
     # feature item loop
-    - name : "Our Achievements"
+    - name : "Pencapaian Sekolah"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "membentuk karakter peserta didik untuk menumbuhkan iman, takwa kepada Tuhan Yang Maha Esa, dan berakhlak mulia, berkebhinekaan global, mandiri, bernalar kritis, bergotong royong dan kreatif "
 
     # feature item loop
-    - name : "Admission Now"
+    - name : "Ekstrakurikuler"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : ".Kegiatan ekstrakurikuler SD Negeri 1 Pejawaran meliputi: Bola Voly, Seni Lukis, Seni Tari, dan Pramuka"
 
 
 ############################## about ##################################
@@ -68,7 +68,7 @@ about:
   enable : true
   title : "Tentang SDN 1 Pejawaran"
   image : "images/about/about-us.jpg"
-  content : "Bahwa  dalam rangka Mencapai cita-cita Sekolah perlu dirumuskan visi, misi dan tujuan Sekolah di Satuan Pendidikan SD Negeri 1 Pejawaran untuk itu menetapkan visi,misi dan tiujuan sekolah tahun Pelajaran 2016 s/d 2017."
+  content : "SD NEGERI 1 PEJAWARAN adalah salah satu satuan pendidikan dengan jenjang SD di Pejawaran, Kec. Pejawaran, Kab. Banjarnegara, Jawa Tengah. Dalam menjalankan kegiatannya, SD NEGERI 1 PEJAWARAN berada di bawah naungan Kementerian Pendidikan dan Kebudayaan"
   button:
     enable : true
     label : "Learn more"
@@ -77,13 +77,13 @@ about:
 
 ############################# Course ################################
 course:
-  enable : true
+  enable : false
   title : "Our Course"
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
 cta:
-  enable : true
+  enable : false
   subtitle : "Click to Join the Advance Workshop"
   title : "Training In Advannce Networking"
   button:
@@ -96,20 +96,44 @@ cta:
 success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
-  title : "Success Stories"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
+  title : "Prestasi Siswa Terbaru"
+  content : "JUARA 1 POPDA TINGKAT KECAMATAN BOLA VOLI PUTRI KECAMATAN PEJAWARAN  TAHUN 2018 
+
+
+JUARA 1 POPDA TINGKAT KECAMATAN VOLI PUTRI KECAMATAN PEJAWARAN  TAHUN 2020
+
+
+JUARA 1 POPDA TINGKAT KECAMATAN LOMPAT JAUH PUTRA KECAMATAN PEJAWARAN  TAHUN 2020
+
+
+JUARA 2 POPDA TINGKAT KECAMATAN TOLAK PELURU PUTRI KECAMATAN PEJAWARAN  TAHUN 2018
+
+
+JUARA 2 OLIMPIADE SAINS NASIONAL MATEMATIKA KECAMATAN PEJAWARAN  TAHUN 2018
+
+
+JUARA 2 LOMBA MAPSI KE-22 TAKHSINUL KHAT PUTRI KECAMATAN PEJAWARAN  TAHUN 2019
+
+
+JUARA 3  TOLAK PELURU PUTRA  KECAMATAN PEJAWARAN  POPDA TAHUN 2020
+
+
+JUARA 3 POPDA TINGKAT KABUPATEN  VOLI PUTRI KABUPATEN BANJARNEGARA  TAHUN 2020
+
+
+
+
             
             
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  "
   # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+  video_link : "https://youtu.be/WV_Com4PJ_c"
 
 
 ############################# event ################################
 event:
   enable : true
-  title : "Upcoming Events"
+  title : "Kegiatan Mendatang"
   # event item comes from "content/**/event" folder.
 
   
@@ -140,5 +164,5 @@ funfacts:
 ############################# blog ################################
 blog:
   enable : true
-  title : "Latest News"
+  title : "Berita Terbaru"
   # blog item comes from "content/**/blog" folder.

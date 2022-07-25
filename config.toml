@@ -49,10 +49,10 @@ name = "Profil"
 URL = "about"
 weight = 1
 
-[[menu.main]]
-name = "course"
-URL = "course"
-weight = 2
+#[[menu.main]]
+#name = "course"
+#URL = "course"
+#weight = 2
 
 [[menu.main]]
 weight = 3
@@ -61,12 +61,12 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Pages"
-  name = "teacher"
+  name = "Guru"
   URL = "teacher"
 
   [[menu.main]]
   parent = "Pages"
-  name = "notice"
+  name = "Pengumuman"
   URL = "notice"
 
   [[menu.main]]
@@ -74,15 +74,15 @@ hasChildren = true
   name = "Kegiatan"
   URL = "event"
 
-  [[menu.main]]
-  parent = "Pages"
-  name = "scholarship"
-  URL = "scholarship"
+  #[[menu.main]]
+  #parent = "Pages"
+  #name = "scholarship"
+  #URL = "scholarship"
 
-  [[menu.main]]
-  parent = "Pages"
-  name = "research"
-  URL = "research"
+  #[[menu.main]]
+  #parent = "Pages"
+  #name = "research"
+  #URL = "research"
   
 [[menu.main]]
 name = "Info"
@@ -125,7 +125,7 @@ logo = "images/logo.png"
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
+address = "Pejawaran, Pejawaran, Kec. Pejawaran, Kab. Banjarnegara, Jawa Tengah, dengan kode pos 53454."
 mobile = "+082327641892"
 email = "esdesatupejawaran@gmail.com"
 # contact form action
@@ -159,27 +159,32 @@ map_marker = "images/marker.png" # marker size 37*55 px
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://id-id.facebook.com/esdesatu.pejawaran/"
 
 [[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+title = "youtube"
+icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
+link = "https://www.youtube.com/channel/UCi2rt7Yx0jrGQtruEDjAI3w"
+
+#[[params.social]]
+#title = "twitter"
+#icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+#link = "#"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://instagram.com/esdhija_sdn1_pejawaran"
 
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#title = "github"
+#icon = "ti-github" # themify icon : https://themify.me/themify-icons
+#link = "#"
 
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#title = "linkedin"
+#icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+#link = "#"
 
 
 ################################### English language #####################################
@@ -190,7 +195,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2022 SDN 1 Pejawaran"
 
 
 ################################### French language #####################################
@@ -201,4 +206,4 @@ contentDir = "content/french"
 weight = 2
 home = "Accueil"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2022 SDN 1 Pejawaran"
