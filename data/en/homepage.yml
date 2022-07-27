@@ -133,7 +133,7 @@ JUARA 3 POPDA TINGKAT KABUPATEN  VOLI PUTRI KABUPATEN BANJARNEGARA  TAHUN 2020
 ############################# event ################################
 event:
   enable : true
-  title : "Kegiatan Mendatang"
+  title : "Acara Mendatang"
   # event item comes from "content/**/event" folder.
 
   
