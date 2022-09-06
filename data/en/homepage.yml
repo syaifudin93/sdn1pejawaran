@@ -132,7 +132,7 @@ JUARA 3 POPDA TINGKAT KABUPATEN  VOLI PUTRI KABUPATEN BANJARNEGARA  TAHUN 2020
 
 ############################# event ################################
 event:
-  enable : true
+  enable : false
   title : "Acara Mendatang"
   # event item comes from "content/**/event" folder.
 
@@ -163,6 +163,6 @@ funfacts:
 
 ############################# blog ################################
 blog:
-  enable : true
+  enable : false
   title : "Berita Terbaru"
   # blog item comes from "content/**/blog" folder.

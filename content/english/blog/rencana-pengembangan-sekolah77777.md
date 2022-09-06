@@ -1,5 +1,5 @@
 ---
-title: "Rencana Pengembangan Sekolah77777"
+title: "Rencana Pengembangan Sekolah"
 date: 2022-07-22T22:53:41+07:00
 draft: false
 # page title background image
@@ -22,4 +22,6 @@ slug: "blog-post-rencana-pengembangan-sekolah77777"
 **Insert Lead paragraph here.**
 
 ## New Cool Posts
+
+sts
 

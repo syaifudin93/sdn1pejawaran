@@ -7,9 +7,9 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "kegiatan ini adalah kegiatan rutinitas"
 # post thumbnail
-image: "images/blog/post-kegiatan-rutinitas.png"
+image: ""
 # post author
-author: "fffffffffffff"
+author: ""
 # taxonomy
 categories: ["info"]
 tags: ["tags1", "tags2"]
